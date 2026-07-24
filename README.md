@@ -53,3 +53,9 @@ Aku adalah seorang Full Stack Web Developer dengan hasrat untuk membangun aplika
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN_KAMU)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E95420?style=for-the-badge&logo=personal&logoColor=white)](https://aryawira.vercel.app/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LawSec/LawSec/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LawSec/LawSec/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LawSec/LawSec/output/github-contribution-grid-snake.svg">
+</picture>
